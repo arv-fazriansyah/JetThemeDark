@@ -7,6 +7,10 @@
 
 ★ View Demo - <a href='https://www.fazriansyah.com/'>Click Here</a><br/>
 
+★ Test PageSpeed - <a href='https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.com/'>Click Here</a><br/>
+
+★ Test GTmetrix - <a href='https://gtmetrix.com/reports/www.fazriansyah.com/kDgFBOnD/'>Click Here</a><br/>
+
 ★ How to Install - <a href='https://www.jettheme.com/2020/02/cara-instal-jettheme-di-blogger.html'>Click Here</a><br/>
 
 ★ How to Settings - <a href='https://www.jettheme.com/2021/03/setting-template-jettheme.html'>Click Here</a><br/>
