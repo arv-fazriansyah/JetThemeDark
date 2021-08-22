@@ -5,11 +5,11 @@
 - Remove Underline
 - Add Anti Copy Paste
 
-★ View Demo - <a href='https://www.fazriansyah.com/'>Click Here</a><br/>
+★ View Demo - <a href='https://www.fazriansyah.eu.org/'>Click Here</a><br/>
 
-★ Test PageSpeed - <a href='https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.com/'>Click Here</a><br/>
+★ Test PageSpeed - <a href='https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.eu.org/'>Click Here</a><br/>
 
-★ Test GTmetrix - <a href='https://gtmetrix.com/reports/www.fazriansyah.com/kDgFBOnD/'>Click Here</a><br/>
+★ Test GTmetrix - <a href='https://gtmetrix.com/reports/www.fazriansyah.eu.org/XK4bCwSR/'>Click Here</a><br/>
 
 ★ How to Install - <a href='https://www.jettheme.com/2020/02/cara-instal-jettheme-di-blogger.html'>Click Here</a><br/>
 
