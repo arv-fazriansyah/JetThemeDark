@@ -104,6 +104,7 @@ URL			: www.jettheme.com
 
 /*Your custom CSS is here*/
 #header {background-color: #212529;}
+#footer {background-color: #212529;}
 a:link {text-decoration: none;}
 body {  
 -webkit-touch-callout: none; /* iOS Safari */
