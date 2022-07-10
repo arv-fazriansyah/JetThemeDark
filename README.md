@@ -1,6 +1,6 @@
-# ★ JetTheme Dark Mode v2.8 <br/>
+# ★ JetTheme Dark Mode v2.9 <br/>
 
-★ JetThemeDark v2.8 - <a href='https://github.com/arv-fazriansyah/JetThemeDark/archive/refs/heads/main.zip'>Download</a><br/>
+★ JetThemeDark v2.9 - <a href='https://github.com/arv-fazriansyah/JetThemeDark/archive/refs/heads/main.zip'>Download</a><br/>
 - DarkMode
 - Remove Underline
 - Add Anti Copy Paste
