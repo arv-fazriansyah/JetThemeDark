@@ -5,7 +5,7 @@
 - Remove Underline
 - Add Anti Copy Paste
 
-★ View Demo - <a href='https://www.fazriansyah.eu.org/'>Click Here</a><br/>
+★ View Demo - <a href='https://www.fazriansyah.com/'>Click Here</a><br/>
 
 ★ Test PageSpeed - <a href='https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.eu.org/'>Click Here</a><br/>
 
