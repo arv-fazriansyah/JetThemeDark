@@ -1,20 +1,27 @@
-# ★ JetTheme Dark Mode v2.9 <br/>
+# JetTheme Dark Mode v2.9
 
-★ JetThemeDark v2.9 - <a href='https://github.com/arv-fazriansyah/JetThemeDark/archive/refs/heads/main.zip'>Download</a><br/>
-- DarkMode
+JetThemeDark v2.9 - [Download](https://github.com/arv-fazriansyah/JetThemeDark/archive/refs/heads/main.zip)
+
+## Features
+- Dark Mode
 - Remove Underline
 - Add Anti Copy Paste
 
-★ View Demo - <a href='https://www.fazriansyah.com/'>Click Here</a><br/>
+## Demo
+- [View Demo](https://www.fazriansyah.my.id/)
 
-★ Test PageSpeed - <a href='https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.eu.org/'>Click Here</a><br/>
+## Performance Tests
+- [Test PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=id&url=https://www.fazriansyah.eu.org/)
+- [Test GTmetrix](https://gtmetrix.com/reports/www.fazriansyah.eu.org/XK4bCwSR/)
 
-★ Test GTmetrix - <a href='https://gtmetrix.com/reports/www.fazriansyah.eu.org/XK4bCwSR/'>Click Here</a><br/>
+## Installation Guide
+- [How to Install](https://www.jettheme.com/2020/02/cara-instal-jettheme-di-blogger.html)
 
-★ How to Install - <a href='https://www.jettheme.com/2020/02/cara-instal-jettheme-di-blogger.html'>Click Here</a><br/>
+## Settings Guide
+- [How to Settings](https://www.jettheme.com/2021/03/setting-template-jettheme.html)
 
-★ How to Settings - <a href='https://www.jettheme.com/2021/03/setting-template-jettheme.html'>Click Here</a><br/>
+## Community
+- Join our Telegram Group: [t.me/jettheme](https://t.me/jettheme)
 
-★ Group Telegram - <a href='https://t.me/jettheme'>t.me/jettheme</a><br/>
-
-★ Thanks to ©<a href='https://github.com/jettheme'>JetTheme</a><br/>
+## Credits
+- Thanks to ©[JetTheme](https://github.com/jettheme)
